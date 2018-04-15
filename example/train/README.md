@@ -21,7 +21,7 @@ There's a service that's shared by all cars - CarMaintenance.
 ```bash
 $ pub run build_runner build -o build
 $ cd build
-$ dart bin/brew.dart
+$ dart packages/inject.example.train/main.dart
 ```
 
 ## To run the tests
